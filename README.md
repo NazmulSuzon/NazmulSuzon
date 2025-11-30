@@ -55,20 +55,51 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/nazmul-hasan96/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:nazmulsuzon100@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-## 📁 Featured Projects (You can add your own)
+## 📁 Featured Projects
 
-- 🔹 **GreenFresh** — Grocery & Vegetables website (Next.js, Tailwind)
-- 🔹 **University Social Platform** — A LinkedIn + Forum hybrid for students
-- 🔹 **AI Abroad Mentor** — Website to match students with mentors for foreign studies
-- 🔹 **ToyRoots Shop** — Online toy shop idea for Bangladesh
+### 🔹 Psychology Counseling Website
+<p>
+  <a href="https://silver-babka-bc3f32.netlify.app/" target="_blank">
+    🖥️ <strong>Live Site</strong>
+  </a> • 
+  <a href="https://github.com/NazmulSuzon/psycology-counseling-client" target="_blank">
+    📦 <strong>GitHub Repo</strong>
+  </a>
+</p>
 
-*(Replace these with your real project links later)*
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-0396DE?style=for-the-badge&logo=firebase&logoColor=yellow" />
+</p>
+
+---
+
+### 🔹 Apartment Sales & Booking Website
+<p>
+  <a href="https://apartment-sales-1b8a7.web.app" target="_blank">
+    🖥️ <strong>Live Site</strong>
+  </a> • 
+  <a href="https://github.com/NazmulSuzon/apartment-client" target="_blank">
+    📦 <strong>GitHub Repo</strong>
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-0396DE?style=for-the-badge&logo=firebase&logoColor=yellow" />
+</p>
+
+---
+
 
 ---
 
