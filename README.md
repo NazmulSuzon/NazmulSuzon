@@ -45,7 +45,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NazmulSuzon&show_icons=true&theme=tokyonight" />
+  <!-- Overall GitHub stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NazmulSuzon&show_icons=true&count_private=true&theme=tokyonight" />
+
+  <!-- Top languages used -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulSuzon&layout=compact&theme=tokyonight" />
 </p>
 
